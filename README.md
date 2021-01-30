@@ -1,3 +1,3 @@
 # I wish I could C
 
-lol get it
+lol get it 😎
