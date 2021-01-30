@@ -1,6 +1,4 @@
-// bubble.h: Lession 7, exercise 2
-//
-//
+
 #ifndef _BUBBLE_H_
 #define _BUBBLE_H_
 
